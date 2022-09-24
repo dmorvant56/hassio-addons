@@ -2,7 +2,7 @@
 
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
-image: dmorvant56/tydom2mqtt
+image: dmorvant/tydom2mqtt
 version: 1.0.0
 slug: tydom2mqtt
 description: Deltadore Tydom to MQTT Bridge
